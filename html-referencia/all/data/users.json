@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1811fd99-21f1-4aa8-a802-528e63198fa7",
+    "name": "Mizuki",
+    "username": "mizuki",
+    "email": "juanesteban.bta@gmail.com",
+    "provider": "local",
+    "createdAt": "2026-09-27T18:03:30.391Z",
+    "passwordHash": "70f5b4e4afa1917c92b8ffa8df0f4de4:79d3a499c47f50dc8252237a96b6c098365a0c19b56fab236a6cac92170b1d397ac5c70d826191f14519acefbe1ea9ceaaa428071b84f8db2d25f2af838350ea"
+  },
+  {
+    "id": "07cfb57e-99f1-4800-91c9-ccf9a003dda7",
+    "name": "Hola123",
+    "username": "hola123",
+    "email": "hola123@gmail.com",
+    "provider": "local",
+    "createdAt": "2026-09-27T18:24:58.912Z",
+    "passwordHash": "f85c7514942d3ceed3eb30a460d3f90a:b0dc1cbf40b7155c73db69dcd645a29c656b7aa2909f3af00a42bc353271974755d6f18f30aea08ca58cff38248830c318e888d7fa888b750e0bd2bebc61ee6c"
+  }
+]

@@ -1,0 +1,1234 @@
+[
+  {
+    "file": "portadablackmythwukong.html",
+    "slug": "portadablackmythwukong",
+    "title": "Black Myth: Wukong",
+    "tag": "AVENTURA / ACCIÓN",
+    "rating": "4.5 / 5",
+    "shortDesc": "Experimenta una aventura épica basada en la mitología china. Acompaña al Destinado en su viaje para descubrir la verdad sobre el legendario Rey Mono, mientras explora mundos fantásticos, enfrenta poderosos enemigos y domina habilidades únicas.",
+    "price": "$329.900",
+    "numPrice": 329900,
+    "oldPrice": "",
+    "discount": "",
+    "cover": "Black.jpg",
+    "details": [
+      "PlayStation 5",
+      "⚔️ Accion Fantasia",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Black Myth: Wukong es un juego de acción y aventura inspirado en la mitología y las leyendas de la antigua China. Esta aventura presenta impresionantes gráficos, combates intensos y una historia llena de misterios y criaturas fantásticas, ofreciendo una experiencia épica e inmersiva.",
+      "Controla al Destinado, un guerrero misterioso inspirado en la leyenda del Rey Mono. Explora un mundo lleno de mitología china, enfrenta poderosos enemigos y descubre los secretos detrás de una antigua historia."
+    ],
+    "features": [
+      "🐒 Mitología china: Inspirado en antiguas leyendas.",
+      "⚔️ Combates intensos: Enfrenta poderosos enemigos.",
+      "🌄 Mundo fantástico: Explora escenarios increíbles.",
+      "🎬 Gráficos de nueva generación",
+      "👹 Jefes desafiantes: Enfrenta criaturas poderosas y legendarias."
+    ],
+    "gallery": [
+      "Black.jpg",
+      "Black.jpg",
+      "Black.jpg",
+      "Black.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Game Science"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "20 de agosto de 2024"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Teen 13+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "105 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$329.900"
+      },
+      {
+        "name": "Deluxe Edition",
+        "price": "$239.000"
+      }
+    ],
+    "specialOffer": {
+      "title": "Black Myth: Wukong 4 con descuento",
+      "text": "Compra ahora y disfruta de uno de los mejores juegos de terror de la última generación.",
+      "img": "Black.jpg"
+    }
+  },
+  {
+    "file": "portadadecyberpunk.html",
+    "slug": "portadadecyberpunk",
+    "title": "Cyberpunk 2077",
+    "tag": "ACCIÓN / CIENCIA FICCIÓN",
+    "rating": "4.7 / 5",
+    "shortDesc": "Es un videojuego de rol de acción de 2020 desarrollado y publicado por CD Projekt Red. Ambientado en Night City, una enorme ciudad futurista dominada por la tecnología, las corporaciones y el crimen, sigue la historia de V, un mercenario que busca sobrevivir mientras se ve envuelto en conflictos que amenazan con cambiar el destino de la ciudad. El juego destaca por su mundo abierto, su narrativa, sus opciones de personalización y su ambientación de estilo cyberpunk.",
+    "price": "$120.500",
+    "numPrice": 120500,
+    "oldPrice": "$219.900",
+    "discount": "-45%",
+    "cover": "cyberpunk.jpg",
+    "details": [
+      "Xbox",
+      "⚔️ Acción",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Es un videojuego de rol y acción de mundo abierto que destaca por su ambientación futurista, su jugabilidad inmersiva y su enorme variedad de posibilidades gracias a un sistema de personalización profundo, combates dinámicos y una narrativa llena de decisiones que pueden afectar el desarrollo de la historia.",
+      "Mundo abierto: Explora Night City y sus diferentes distritos. Combate: Utiliza armas, habilidades y mejoras cibernéticas para enfrentarte a tus enemigos. Personalización: Modifica las habilidades, apariencia y equipamiento de V. Historia: Toma decisiones que pueden influir en los acontecimientos y desenlaces del juego. Exploración: Descubre misiones, personajes y actividades por toda la ciudad."
+    ],
+    "features": [
+      "🌃 Night City: Explora una ciudad futurista llena de distritos, personajes y actividades.",
+      "🦾 Mejoras cibernéticas: Personaliza a V con habilidades, armas y modificaciones tecnológicas.",
+      "📖 Historia y decisiones: Vive una aventura narrativa donde tus decisiones pueden cambiar el desarrollo de la historia.",
+      "🎮 Un solo jugador",
+      "🏆 Compatible con Xbox"
+    ],
+    "gallery": [
+      "Cyberpunk1.jpg",
+      "Cyberpunk2.jpg",
+      "Cyberpunk3.jpg",
+      "Cyberpunk4.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "CD Projekt Red"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "10 de diciembre de 2020"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Mature 17+ (M)"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "100 GB"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Phantom Liberty Edition",
+        "price": "$279.900"
+      },
+      {
+        "name": "Ultimate Edition",
+        "price": "$329.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén Cyberpunk 2077 con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de acción y ciencia ficción futurista.",
+      "img": "cyberpunk.jpg"
+    }
+  },
+  {
+    "file": "PortadadeEldenRing.html",
+    "slug": "portadadeeldenring",
+    "title": "Elden Ring",
+    "tag": "FANTASÍA / MUNDO ABIERTO",
+    "rating": "5 / 5",
+    "shortDesc": "Disfruta de la experiencia extrema de Elden Ring. Escoge tu clase y explora Las Tierras Intermedias Sistema de combate y de experiencia familiar a la Saga Dark Souls, multijugador online y conviertete en el proximo portador del Anillo de Elden.",
+    "price": "$219.900",
+    "numPrice": 219900,
+    "oldPrice": "$239.900",
+    "discount": "-8%",
+    "cover": "eldenring.jpg",
+    "details": [
+      "🎮 PlayStation",
+      "⚔️ Acción",
+      "👥 1 jugador (local) Hasta 4 jugadores online"
+    ],
+    "descParas": [
+      "Elden Ring es un juego en el cual tendrá que decidir el destino de Las Tierras Intermedias. Encarnando como el Tizdano, puedes conseguir las runas necesarias para poder salvar al reino, o directamente hacer diferentes acciones, cada una salvando al reino a su manera...",
+      "Escoge tu clase, sube de nivel, sobrevive y sigue las gracias para saber el destino a tomar. Consigue armas, armaduras, magia, hechizos y sobre todo, explora cada rincón para conseguir algunos secretos."
+    ],
+    "features": [
+      "⚔️ Más de 10 clases para escoger",
+      "🧙 Más de 100 hechizos",
+      "🌐 Multijugador online",
+      "🎮 Compatible con Playstation",
+      "🏆 Elden Ring: Shadow of the Erdtree también incluido"
+    ],
+    "gallery": [
+      "EldenRing1.jpg",
+      "EldenRing2.jpg",
+      "EldenRing3.jpg",
+      "EldenRing4.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "From Software Publisher: Bandai Namco Entertaiment"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "25 de febrero de 2022"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "M para mayores de 18 años"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "60 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard",
+        "price": "$219.900"
+      },
+      {
+        "name": "Shadow of the Erdtree",
+        "price": "$239.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Salva Las Tierras Intermedias",
+      "text": "Explora cada rincón de Las Tierras Intermedias, consigue armas, armaduras, hechizos, sube de nivel y salva al reino como crees que deba de ser salvado.",
+      "img": "EldenRing5.jpg"
+    }
+  },
+  {
+    "file": "PortadadeF124.html",
+    "slug": "portadadef124",
+    "title": "F1 24",
+    "tag": "ACCIÓN / DEPORTES",
+    "rating": "4.7 / 5",
+    "shortDesc": "Oficialmente EA Sports F1 24, es un videojuego de carreras desarrollado por Codemasters y publicado por EA Sports. Es la decimoséptima entrega de la serie F1 y posee la licencia de los campeonatos de Fórmula 1 y Fórmula 2 de 2024.",
+    "price": "$129.600",
+    "numPrice": 129600,
+    "oldPrice": "$288.000",
+    "discount": "-45%",
+    "cover": "F124.jpg",
+    "details": [
+      "Playstation 5",
+      "🏎️ Carreras",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Es el videojuego oficial del Campeonato Mundial de Fórmula 1 2024, desarrollado por Codemasters y publicado por EA Sports.",
+      "Modo Carrera Profesional renovado: Permite competir por primera vez encarnando a pilotos reales de la parrilla de F1 o F2, íconos históricos o creando un piloto propio. Incluye un sistema de reconocimiento dentro del equipo y desarrollo de monoplaza. EA Sports Dynamic Handling: Físicas de conducción actualizadas que ofrecen un mayor control sobre el desgaste de neumáticos, la carga aerodinámica, la suspensión y la gestión del sistema de energía ERS. Carrera Profesional de Desafío: Eventos competitivos episódicos por tiempo limitado donde la comunidad compite por puntuaciones globales. Fanzones y F1 World: Hub central para eventos multijugador, modos de juego diarios/semanales y personalización de vehículos, permitiendo apoyar a escuderías y pilotos favoritos. Circuitos y licencias actualizadas: Cuenta con la plantilla completa de la temporada 2024 y mejoras visuales/estrucutrales en trazados emblemáticos como Silverstone, Spa-Francorchamps y Lusail."
+    ],
+    "features": [
+      "🏆 Modo Carrera: compite como uno de los pilotos de F1, pilotos de F2, iconos históricos o crea tu propio piloto.",
+      "🌎 F1 World: incluye diferentes experiencias online y modos de juego.",
+      "📈 Ganar reconocimiento: cumple objetivos y consigue logros durante la temporada.",
+      "🎮 Multijugador competitivo (Se cobra aparte)",
+      "🏆 Compatible con Playstation 5"
+    ],
+    "gallery": [
+      "F124CAPTURA.JPG",
+      "F124GAMEPLAY.JPG",
+      "F124ESCENAS.JPG",
+      "F124CARRERA.JPG"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Codemasters"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "31 de mayo de 2024."
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Everyone 10+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "92 GB aproximadamente."
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Campaign Edition",
+        "price": "$279.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén NBA 2K25 con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de deportes y ciencia ficción de la nueva generación.",
+      "img": "F1 24.JPG"
+    }
+  },
+  {
+    "file": "portadadefc25.html",
+    "slug": "portadadefc25",
+    "title": "EA SPORTS FC™ 25",
+    "tag": "ACCIÓN / DEPORTES",
+    "rating": "4.7 / 5",
+    "shortDesc": "Es un Videojuego de simulación de fútbol lanzado el 27 de septiembre de 2024. que ofrece una gestión de equipo realista, un nuevo control táctico y partidos reducidos de ritmo rápido.",
+    "price": "$132.000",
+    "numPrice": 132000,
+    "oldPrice": "$240.000",
+    "discount": "-45%",
+    "cover": "FIFAPORTADA.JPG",
+    "details": [
+      "Playstation 5",
+      "🏃 Deportes",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Es un videojuego de fútbol desarrollado por Electronic Arts y la segunda entrega de la saga tras la separación de la marca FIFA.",
+      "Modo Rush: Partidas rápidas de 5 contra 5 en espacios reducidos que reemplazan a Volta y ofrecen un estilo más arcade. FC IQ: Un nuevo sistema táctico que rediseña los roles de los jugadores y el posicionamiento estratégico en el campo. Fútbol Femenino en Modo Carrera: La inclusión por primera vez de ligas femeninas dentro de la experiencia de trayectoria. Modo Carrera y Ultimate Team: Mejoras visuales, gestión de cantera y torneos clásicos como la Champions League."
+    ],
+    "features": [
+      "💾 FC IQ: Renueva la base táctica con inteligencia artificial entrenada en datos reales, permitiendo asignar roles específicos a los futbolistas para definir su comportamiento en el campo.",
+      "⚽ Modo Rush 5v5: Partidos dinámicos de cinco contra cinco en canchas reducidas, integrado en varios modos de juego como Ultimate Team y Carrera.",
+      "🌐 Puntos de inicio en vivo: Permite jugar el Modo Carrera (tanto de jugador como de DT) reflejando la temporada real y las clasificaciones al instante.",
+      "🎮 Multijugador competitivo (Se cobra aparte)",
+      "🏆 Compatible con Playstation 5"
+    ],
+    "gallery": [
+      "FIFA1.JPG",
+      "FIFA2.JPG",
+      "FIFA3.JPG",
+      "FIFA4.JPG"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "EA Vancouver y EA Rumania."
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "27 de septiembre de 2024."
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Everyone 10+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "100 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Campaign Edition",
+        "price": "$279.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén EA SPORTS FC™ 25 con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de deportes y ciencia ficción de la nueva generación.",
+      "img": "FIFA.JPG"
+    }
+  },
+  {
+    "file": "PortadadeForzaHorizon5.html",
+    "slug": "portadadeforzahorizon5",
+    "title": "Forza Horizon 5",
+    "tag": "ACCIÓN / DEPORTES",
+    "rating": "4.7 / 5",
+    "shortDesc": "Es un juego de carreras de 2021 desarrollado por Playground Games y publicado por Xbox Game Studios. Es el quinto título de Forza Horizon, después de Forza Horizon 4, y la duodécima entrega principal de la serie Forza. El juego está ambientado en una representación ficticia de México.",
+    "price": "$83.445",
+    "numPrice": 83445,
+    "oldPrice": "$185.435",
+    "discount": "-45%",
+    "cover": "FORZAHORIZON55.JPG",
+    "details": [
+      "Xbox",
+      "🏎️ Carreras",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Es un juego de carreras y mundo abierto desarrollado por Playground Games. 🎮🚗💨 La aventura se desarrolla en una recreación de México, con cientos de coches y diferentes tipos de carreras.",
+      "Ambientación en México: Ofrece el mapa más extenso y variado de la franquicia, incluyendo desiertos, selvas densas, ciudades históricas, ruinas mayas, playas y un volcán activo. Clima dinámico y estaciones: El mapa cambia progresivamente mediante un sistema de estaciones y fenómenos meteorológicos masivos, como tormentas de arena en el desierto o tormentas tropicales. Catálogo de vehículos masivo: Cuenta con más de 700 coches hiperdetallados de decenas de fabricantes reales, con opciones avanzadas de personalización mecánica, estética y de sonido.Modos de juego y Horizon Arcade: Incluye un modo campaña (Expediciones), pruebas de drift, carreras de aceleración, el modo battle royale vehicular (The Eliminator) y eventos comunitarios en tiempo real. EventLab: Herramienta creativa que permite a los jugadores diseñar sus propias carreras, circuitos, acrobacias y modos de juego personalizados para compartirlos con la comunidad."
+    ],
+    "features": [
+      "🏁 Correr en carretera, tierra, rally y circuitos.",
+      "🌎 Explorar México: desiertos 🏜️, selvas 🌴, playas 🏖️, ciudades 🏙️, cañones y volcanes 🌋.",
+      "🔥 Hot Wheels y Rally Adventure amplían la experiencia con nuevas zonas y actividades.",
+      "🎮 Multijugador competitivo (Se cobra aparte)",
+      "🏆 Compatible con Playstation 5"
+    ],
+    "gallery": [
+      "FORZAHORIZON5CAPTURA.JPG",
+      "FORZAHORIZON5GAMEPLAY.JPG",
+      "FORZAHORIZON5ESCENAS.JPG",
+      "FORZAHORIZON5CARRERAS.JPG"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Playground Games"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "9 de noviembre de 2021."
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Everyone 10+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "entre 110 GB y 160 GB aproximadamente."
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Campaign Edition",
+        "price": "$279.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén FORZA HORIZON 5 con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de deportes y ciencia ficción de la nueva generación.",
+      "img": "FORZAHORIZON55.JPG"
+    }
+  },
+  {
+    "file": "Portadadegodofwarragnarok.html",
+    "slug": "portadadegodofwarragnarok",
+    "title": "GOD OF WAR RAGNARÖK",
+    "tag": "ACCIÓN / AVENTURAS",
+    "rating": "4.7 / 5",
+    "shortDesc": "Es un videojuego de acción y aventura desarrollado por Sony Interactive Entertainment que continúa la historia de Kratos y su hijo Atreus en el entorno de la mitología nórdica.",
+    "price": "$103.500",
+    "numPrice": 103500,
+    "oldPrice": "$230.000",
+    "discount": "-45%",
+    "cover": "Ragnarok.jpg",
+    "details": [
+      "Playstation 5",
+      "🧭 Aventura / Acción",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Es un juego de acción y aventura desarrollado por Santa Monica Studio. Es la continuación de God of War (2018) y continúa la historia de Kratos y Atreus en la mitología nórdica.",
+      "Kratos y Atreus deben viajar a cada uno de los nueve reinos en búsqueda de respuestas, mientras que las fuerzas asgardianas se preparan para una batalla profetizada que terminará con el mundo. En el camino explorarán paisajes increíbles y míticos, y se enfrentarán a aterradores enemigos en la forma de dioses nórdicos y monstruos. La amenaza del Ragnarök cada vez está más cerca. Kratos y Atreus deben elegir entre su propia seguridad y la seguridad de los reinos."
+    ],
+    "features": [
+      "👨‍👦 Acompañar a Kratos y Atreus en su aventura.",
+      "👹 Enfrentarte a criaturas y dioses nórdicos.",
+      "🏆 Completar la historia y misiones secundarias.",
+      "🎮 Multijugador competitivo (Se cobra aparte)",
+      "🏆 Compatible con Playstation 5"
+    ],
+    "gallery": [
+      "Ragnarokcaptura.jpg",
+      "Ragnarokgameplay.jpg",
+      "Ragnarokescenas.jpg",
+      "Ragnarokpelea.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Santa Monica Studio"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "9 de noviembre de 2022."
+      },
+      {
+        "label": "Clasificación:",
+        "val": "M (Maduro) 17+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "190 GB aproximadamente."
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Campaign Edition",
+        "price": "$279.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén God of War: Ragnarök con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de deportes y ciencia ficción de la nueva generación.",
+      "img": "Ragnarokportada.jpg"
+    }
+  },
+  {
+    "file": "PortadadeHogwartsLegacy.html",
+    "slug": "portadadehogwartslegacy",
+    "title": "HOGWARTS LEGACY",
+    "tag": "ACCIÓN / LOGICA",
+    "rating": "4.7 / 5",
+    "shortDesc": "Es un videojuego de rol de acción publicado en 2023, desarrollado por Avalanche Software y distribuido por Warner Bros. Games a través de su sello Portkey Games.",
+    "price": "$103.495",
+    "numPrice": 103495,
+    "oldPrice": "$299.990",
+    "discount": "-45%",
+    "cover": "HOGWARTSLEGACY.JPG",
+    "details": [
+      "Playstation 5",
+      "🎬 Accion",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Es un RPG de acción y mundo abierto ambientado en el universo mágico de Harry Potter, pero situado en el siglo XIX, mucho antes de Harry, Ron y Hermione.",
+      "El jugador controla a un estudiante que ingresa de forma tardía a quinto año en el Colegio Hogwarts de Magia y Hechicería. El protagonista posee una habilidad innata para dominar una magia antigua peligrosa que guarda la clave de un secreto capaz de destruir el mundo mágico. Se pueden explorar locaciones icónicas como el castillo de Hogwarts, el bosque prohibido y el pueblo de Hogsmeade. El sistema permite asistir a clases, aprender hechizos, preparar pociones, domesticar bestias fantásticas y elegir casa (Gryffindor, Slytherin, Ravenclaw o Hufflepuff). Las decisiones del jugador influyen en el desarrollo de la historia, permitiendo elegir un camino de rectitud o ceder ante artes oscuras."
+    ],
+    "features": [
+      "🧙‍♂️ Crear tu propio personaje y elegir tu casa. 🦁🐍🦅🦡",
+      "🏰 Explorar Hogwarts y descubrir pasadizos, mazmorras y secretos.",
+      "📖 Completar misiones y descubrir una antigua amenaza.",
+      "🎮 Multijugador competitivo (Se cobra aparte)",
+      "🏆 Compatible con Playstation 5"
+    ],
+    "gallery": [
+      "HOGWARTSLEGACYCAPTURA.JPG",
+      "HOGWARTSLEGACYGAMEPLAY.JPG",
+      "HOGWARTSLEGACYESCENAS.JPG",
+      "HOGWARTSLEGACYMAGIA.JPG"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Avalanche Software"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "10 de febrero de 2023."
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Teen 13+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "Entre 17 GB y 85 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Campaign Edition",
+        "price": "$279.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén HOGWARTS LEGACY con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de deportes y ciencia ficción de la nueva generación.",
+      "img": "HOGWARTS LEGACY.JPG"
+    }
+  },
+  {
+    "file": "PortadadeMinecraft.html",
+    "slug": "portadademinecraft",
+    "title": "MINECRAFT",
+    "tag": "ACCIÓN / SANDBOX",
+    "rating": "5 / 5",
+    "shortDesc": "Es un videojuego de construcción y aventura desarrollado por Mojang Studios y distribuido por Xbox Game Studios. En Minecraft, los jugadores pueden explorar un mundo abierto generado de forma procedural, recolectar recursos, construir estructuras, fabricar herramientas y enfrentarse a diversas criaturas mientras crean su propia aventura.",
+    "price": "$129.900",
+    "numPrice": 129900,
+    "oldPrice": "",
+    "discount": "",
+    "cover": "minecraft1.jpg",
+    "details": [
+      "Multiplataforma",
+      "🎬 Accion",
+      "🎮 Multijugador"
+    ],
+    "descParas": [
+      "Es un mundo abierto de bloques y supervivencia, donde los jugadores pueden explorar vastos paisajes, construir su propio mundo y enfrentarse a criaturas y peligros mientras descubren los secretos que se esconden en cada rincón.",
+      "El jugador controla a un personaje que comienza su aventura en un mundo abierto lleno de posibilidades, donde deberá sobrevivir, explorar y construir su propio camino. El protagonista deberá recolectar recursos, fabricar herramientas y enfrentarse a criaturas peligrosas mientras descubre los secretos que se esconden en un mundo generado de forma única. Se pueden explorar locaciones como bosques, montañas, cuevas, océanos, aldeas y dimensiones como el Nether y el End. El sistema permite construir estructuras, fabricar objetos, cultivar alimentos, domesticar animales, comerciar con aldeanos y combatir contra diferentes criaturas. Además, el jugador puede explorar libremente el mundo y desarrollar su propia base. Las decisiones del jugador determinan su forma de progresar, permitiéndole centrarse en la construcción y exploración, convertirse en un poderoso guerrero o aventurarse en las dimensiones más peligrosas en busca de recursos y desafíos."
+    ],
+    "features": [
+      "🧙‍♂️ Crear tu propio personaje y crea tu mundo.",
+      "📍 Explora el mundo, descubre lugares, biomas y secretos.",
+      "📖 Completa el inventario y descubre mundos.",
+      "🎮 Multijugador gratis",
+      "🏆 Compatible con todas las plataformas"
+    ],
+    "gallery": [
+      "Minecraftcaptura.jpg",
+      "Minecraftgameplay.jpg",
+      "Minecraftescena.jpg",
+      "Minecraftcombate.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Mojang Studios"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "17 de mayo de 2009."
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Everyone"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "Entre 200 megas y 4 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Playstation",
+        "price": "$129.900"
+      },
+      {
+        "name": "Xbox",
+        "price": "$129.900"
+      },
+      {
+        "name": "Nintendo Switch",
+        "price": "$129.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén Minecraft para tu consola de preferencia",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de construcción y aventura.",
+      "img": "minecraft1.jpg"
+    }
+  },
+  {
+    "file": "portadadeNBA2K25.html",
+    "slug": "portadadenba2k25",
+    "title": "NBA 2K25",
+    "tag": "ACCIÓN / DEPORTES",
+    "rating": "4.7 / 5",
+    "shortDesc": "Es un videojuego de baloncesto de 2024 desarrollado por Visual Concepts y publicado por 2K. Basado en la National Basketball Association,es la vigésimo sexta entrega de la serie NBA 2K y sucesor de NBA 2K24 y predecesor de NBA 2K26.",
+    "price": "$162.000",
+    "numPrice": 162000,
+    "oldPrice": "$270.000",
+    "discount": "-45%",
+    "cover": "NBA2K25.JPG",
+    "details": [
+      "Playstation 5",
+      "🏃 Deportes",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Es un simulador de baloncesto realista que destaca por su jugabilidad fluida en la cancha gracias a la tecnología ProPLAY y sus más de 9,000 animaciones nuevas.",
+      "Sistema de dribles: Reconstruido desde cero, otorga mayor precisión y da peso al físico y la posición. Mecánica de tiro: Incluye indicadores personalizados y opciones avanzadas con el stick derecho para imitar movimientos reales. Defensa: Incorpora herramientas como el defensive cutoff para frenar ataques rápidos (blowby). Mi CARRERA: Permite crear tu propio jugador y explorar una ciudad más compacta, aunque mantiene un enfoque pesado en el juego en línea y microtransacciones. MyTEAM: El popular modo de cartas que marca el regreso de la casa de subastas. Mi NBA / MyGM: Permite gestionar franquicias y revivir eras históricas, incluyendo la de Stephen Curry."
+    ],
+    "features": [
+      "💾 Mi CARRERA y La Ciudad: Una versión renovada y más compacta de la ciudad con acceso directo a modos como Pro-AM y The REC.",
+      "🏀 MyTEAM: Regreso de las opciones clásicas y de las subastas de cartas para armar equipos de ensueño.",
+      "🌐 Mi NBA / Eras: Incorporación de nuevas eras históricas, destacando la época de Stephen Curry en 2017.",
+      "🎮 Multijugador competitivo (Se cobra aparte)",
+      "🏆 Compatible con Playstation 5"
+    ],
+    "gallery": [
+      "NBA2K25CAPTURA.JPG",
+      "NBA2K25GAMEPLAY.JPG",
+      "NBA2K25ESCENA.JPG",
+      "NBA2K25JUEGO.JPG"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Visual Concepts"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "6 de septiembre de 2024."
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Everyone 10+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "Entre 59 GB y 150 GB aproximadamente."
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Campaign Edition",
+        "price": "$279.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén NBA 2K25 con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de deportes y ciencia ficción de la nueva generación.",
+      "img": "NBA2K255.JPG"
+    }
+  },
+  {
+    "file": "PortadadeRedDeadRedemption2.html",
+    "slug": "portadadereddeadredemption2",
+    "title": "RED DEAD REDEMPTION 2",
+    "tag": "ACCIÓN / DISPAROS",
+    "rating": "4.7 / 5",
+    "shortDesc": "Es un juego de acción y aventura de 2018 desarrollado y publicado por Rockstar Games. El juego es la tercera entrega de la serie Red Dead y una precuela del juego Red Dead Redemption de 2010.",
+    "price": "$108.000",
+    "numPrice": 108000,
+    "oldPrice": "$240.000",
+    "discount": "-45%",
+    "cover": "RED DEAD REDEMPTION 2.JPG",
+    "details": [
+      "Playstation 5",
+      "🎬 Accion",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Es un juego de acción, aventura y mundo abierto desarrollado por Rockstar Games. 🎮🌎 Está ambientado en 1899, durante los últimos años del Salvaje Oeste.",
+      "Historia crepuscular: Ambientada en 1899, sigue la vida de Arthur Morgan y la banda de forajidos de Van der Linde. Tras un fallido atraco en Blackwater, la banda debe huir de los agentes federales y cazarrecompensas mientras atraviesan la frontera norteamericana. Mundo vivo y reactivo: Cuenta con ecosistemas complejos que albergan cientos de especies animales (con físicas realistas de caza y pesca), ciudades en desarrollo, pueblos fronterizos y campamentos dinámicos donde la interacción con cada NPC altera tu reputación. Sistema de Honor: Las elecciones de Arthur, la forma de resolver conflictos y las acciones morales afectan cómo reacciona el mundo, las misiones disponibles y la conclusión del relato.Mecánicas de supervivencia e inmersión: Mantenimiento de armas, gestión del peso del personaje, cuidado de la salud/energía del caballo y un sistema de personalización minucioso (ropa, barba, equipamiento).Red Dead Online: Incluye el modo multijugador que permite crear un personaje propio, elegir roles de especialista (recaudador de recompensas, comerciante, coleccionista, licorero) y realizar misiones narrativas o competitivas."
+    ],
+    "features": [
+      "📖 Seguir una historia protagonizada por Arthur Morgan.",
+      "🏕️ Vivir con la banda Van der Linde y ayudar en el campamento.",
+      "🗺️ Recorrer pueblos, montañas, bosques, ríos y pantanos.",
+      "🎮 Multijugador competitivo (Se cobra aparte)",
+      "🏆 Compatible con Playstation 5"
+    ],
+    "gallery": [
+      "RED DEAD REDEMPTION 2CAPTURAS.JPG",
+      "RED DEAD REDEMPTION 2GAMEPLAY.JPG",
+      "RED DEAD REDEMPTION 2ESCENAS.JPG",
+      "RED DEAD REDEMPTION 2PELEA.JPG"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Rockstar Studios"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "26 de octubre de 2018."
+      },
+      {
+        "label": "Clasificación:",
+        "val": "PEGI 18+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "Entre 115 GB o los 120 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Campaign Edition",
+        "price": "$279.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén RED DEAD REDEMPTION 2 con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de deportes y ciencia ficción de la nueva generación.",
+      "img": "RED DEAD REDEMPTION 22.JPG"
+    }
+  },
+  {
+    "file": "portadadezeldatotk.html",
+    "slug": "portadadezeldatotk",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "tag": "ACCIÓN / AVENTURA",
+    "rating": "4.7 / 5",
+    "shortDesc": "Regresa como el héroe de Hyrule en esta nueva aventura épica en por los cielos, las profundidades y la superficie. Explora un enorme mundo abierto, enfrenta a monstrous, desbloquea poderes y completa misiones. Descubre los misterios que rodean esta historia y vive una de las experiencias de juego más inolvidables.",
+    "price": "$112.455",
+    "numPrice": 112455,
+    "oldPrice": "$249.900",
+    "discount": "-45%",
+    "cover": "The Legend of Zelda Tears of the Kingdom.jpg",
+    "details": [
+      "Nintendo Switch",
+      "⚔️ Aventura",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "The Legend of Zelda: Tears of the Kingdom es una nueva generación de la icónica franquicia de aventuras desarrolladapor Nintendo. La aventura presenta una aventura renovada con un enorme mundo abierto, combates más dinámicos y una experiencia diseñada para aprovechar todo el potencial de la consola Nintendo Switch.",
+      "Encarna como el héroe de Hyrule, Link, y enfréntate a desafíos mientras exploras cada santuario, aldeas y zonas ocultas. Descubre nuevas armas, habilidades y secretos mientras luchas por salvar al reino de Hyrule."
+    ],
+    "features": [
+      "🛡️ Aventura protagonizada por Link",
+      "🌌 Mundo abierto con exploración libre",
+      "🔫 Combate con nuevas armas y habilidades",
+      "🎮 Un solo jugador",
+      "🏆 Compatible con Nintendo Switch y Nintendo Switch 2"
+    ],
+    "gallery": [
+      "zelda1.jpg",
+      "zelda2.jpg",
+      "zelda3.jpg",
+      "zelda4.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Nintendo LTD"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "12 de mayo de 2023"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Everyone 10+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "16.5 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$249.900"
+      },
+      {
+        "name": "Nintendo Switch 2 Edition",
+        "price": "$299.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén The Legend of Zelda: Tears of the Kingdom con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de acción y aventura de la nueva generación.",
+      "img": "zelda5.jpg"
+    }
+  },
+  {
+    "file": "portadaGTA5.html",
+    "slug": "portadagta5",
+    "title": "GRAND THEFT AUTO V",
+    "tag": "ACCION / AVENTURA DE MUNDO ABIERTO",
+    "rating": "4.6 / 5",
+    "shortDesc": "Vive una aventura llena de acción y caos en Los Santos. Acompaña a Michael, Franklin y Trevor mientras se enfrentan a peligrosos criminales, grandes robos y conflictos que pondrán a prueba su amistad. Explora una ciudad llena de oportunidades, vehículos y misterios en uno de los juegos de mundo abierto más icónicos.",
+    "price": "$170.000 COP",
+    "numPrice": 170000,
+    "oldPrice": "",
+    "discount": "",
+    "cover": "GTAV.jpg",
+    "details": [
+      "PlayStation 5",
+      "💥 Accion",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Grand Theft Auto V es un juego de acción y aventura de mundo abierto desarrollado por Rockstar Games. Ambientado en la ciudad ficticia de Los Santos, el juego sigue las historias entrelazadas de tres protagonistas: Michael, un ex ladrón de bancos; Franklin, un joven estafador; y Trevor, un psicópata impredecible. Los jugadores pueden explorar libremente la ciudad, participar en misiones principales y secundarias, y experimentar una amplia variedad de actividades y desafíos.",
+      "Controla a Michael, Franklin y Trevor, tres personajes con vidas muy diferentes que se cruzan en Los Santos.Explora una enorme ciudad, realiza grandes robos, enfrenta enemigos peligrososy descubre los secretos detrás de una vida llena de crimen, dinero y acción."
+    ],
+    "features": [
+      "🎮 Modo historia para un jugador",
+      "🔫 Acción y aventuras",
+      "💰 Misiones y grandes robos",
+      "🚗 Gran variedad de vehículos",
+      "🏆 Compatible con PlayStation 5"
+    ],
+    "gallery": [
+      "GTA1.jpg",
+      "GTA2.jpg",
+      "GTA3.jpg",
+      "GTA4.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Rockstar North"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "17 de septiembre de 2013"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Mature 17+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "92 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$170.000"
+      },
+      {
+        "name": "Edición Expanded & Enhanced",
+        "price": "$160.000"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén Grand Theft Auto V con descuento",
+      "text": "Compra ahora y disfruta de uno de los mejores juegos de terror de la última generación.",
+      "img": "GTA-5.jpg"
+    }
+  },
+  {
+    "file": "portadahalo.html",
+    "slug": "portadahalo",
+    "title": "Halo Infinite",
+    "tag": "ACCIÓN / SHOOTER",
+    "rating": "4.7 / 5",
+    "shortDesc": "Regresa como el legendario Master Chief en una aventura épica de ciencia ficción. Explora un enorme mundo abierto, enfrenta a los Banished y descubre los secretos del anillo Zeta Halo en una de las campañas más ambiciosas de la saga.",
+    "price": "$153.945",
+    "numPrice": 153945,
+    "oldPrice": "$279.900",
+    "discount": "-45%",
+    "cover": "haloportada.jpg",
+    "details": [
+      "Xbox Series X|S",
+      "🚀 Ciencia ficción",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Halo Infinite es una nueva generación de la icónica franquicia de disparos en primera persona desarrollada por 343 Industries. La aventura presenta una campaña renovada con un enorme mundo abierto, combates más dinámicos y una experiencia diseñada para aprovechar todo el potencial de las consolas modernas.",
+      "Ponte en la armadura del Jefe Maestro, John-117, y enfréntate a los Banished mientras exploras los restos del misterioso anillo Zeta Halo. Descubre nuevas armas, vehículos y secretos mientras luchas por salvar a la humanidad."
+    ],
+    "features": [
+      "🛡️ Campaña épica protagonizada por Master Chief",
+      "🌌 Mundo abierto con exploración libre",
+      "🔫 Combate avanzado con nuevas armas y habilidades",
+      "🎮 Multijugador competitivo gratuito",
+      "🏆 Compatible con Xbox Series X|S"
+    ],
+    "gallery": [
+      "halo1.jpg",
+      "halo2.jpg",
+      "halo3.jpg",
+      "halo4.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "343 Industries"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "8 de diciembre de 2021"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Teen 13+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "60 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$219.900"
+      },
+      {
+        "name": "Campaign Edition",
+        "price": "$279.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén Halo Infinite con descuento",
+      "text": "Compra ahora y disfruta de una de las mejores experiencias de acción y ciencia ficción de la nueva generación.",
+      "img": "halo5.jpg"
+    }
+  },
+  {
+    "file": "portadamario.html",
+    "slug": "portadamario",
+    "title": "Mario Kart 8 Deluxe",
+    "tag": "CARRERAS / MULTIJUGADOR",
+    "rating": "4.9 / 5",
+    "shortDesc": "Disfruta de la experiencia definitiva de Mario Kart. Compite en circuitos llenos de acción con personajes icónicos del universo Nintendo, juega en línea o en multijugador local y demuestra quién es el mejor piloto.",
+    "price": "$230.930",
+    "numPrice": 230930,
+    "oldPrice": "$329.900",
+    "discount": "-30%",
+    "cover": "marioportada.jpg",
+    "details": [
+      "🔴 Nintendo Switch",
+      "🏎️ Carreras",
+      "👥 1 - 4 jugadores (local) Hasta 12 jugadores online"
+    ],
+    "descParas": [
+      "Mario Kart 8 Deluxe es la versión definitiva del exitoso juego de carreras de Nintendo. Incluye todos los circuitos del contenido descargable original, nuevos personajes y modos de juego para disfrutar solo o acompañado.",
+      "Corre por pistas inspiradas en el universo de Mario, utiliza objetos para adelantar a tus rivales y compite contra jugadores de todo el mundo en emocionantes carreras llenas de diversión."
+    ],
+    "features": [
+      "🏁 48 circuitos clásicos y nuevos",
+      "🚗 Más de 40 personajes jugables",
+      "🌐 Multijugador local y online",
+      "🎮 Compatible con Nintendo Switch",
+      "🏆 Todos los contenidos adicionales incluidos"
+    ],
+    "gallery": [
+      "mario1.jpg",
+      "mario2.jpg",
+      "mario3.jpg",
+      "mario4.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Nintendo EPD"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "28 de abril de 2017"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "E para Todos"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "11 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$289.900"
+      },
+      {
+        "name": "Bundle + Pase de pistas extra",
+        "price": "$349.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Compite con Mario Kart 8 Deluxe",
+      "text": "Corre junto a Mario, Luigi, Peach, Yoshi y muchos más en la experiencia definitiva de Mario Kart para Nintendo Switch.",
+      "img": "mario5.jpg"
+    }
+  },
+  {
+    "file": "portadamortalkombat.html",
+    "slug": "portadamortalkombat",
+    "title": "Mortal kombat 1",
+    "tag": "PELEA / ACCIÓN",
+    "rating": "4.17 / 5",
+    "shortDesc": "Experimenta una nueva era del legendario juego de peleas. Acompaña a Liu Kang y a los guerreros de Earthrealm en una batalla épica para proteger su mundo de poderosos enemigos y amenazas de otras dimensiones. Descubre un universo renovado, lleno de combates intensos, personajes legendarios y secretos que pondrán a prueba tus habilidades.",
+    "price": "$220.915",
+    "numPrice": 220915,
+    "oldPrice": "$259.900",
+    "discount": "-15%",
+    "cover": "mortalportada.jpg",
+    "details": [
+      "PlayStation 5",
+      "🤼 Pelea",
+      "🎮 Multijugador"
+    ],
+    "descParas": [
+      "Mortal Kombat 1 es una reinvención del clásico juego de peleas desarrollado por NetherRealm Studios. Esta nueva versión presenta un universo renovado, pero mantiene la esencia de los combates originales. Además, incorpora nuevos personajes, mecánicas de combate mejoradas y una historia emocionante que ofrece una experiencia más moderna e inmersiva.",
+      "Controla a Liu Kang y a los diferentes guerreros de Earthrealm en una nueva era creada para proteger la paz. Enfrenta poderosos enemigos, participa en intensos combates y descubre los secretos detrás de las nuevas amenazas que ponen en peligro el equilibrio de los reinos."
+    ],
+    "features": [
+      "🎮 Modo historia con diferentes personajes",
+      "⚡ Sistema de combate mejorado",
+      "🔥 Combates intensos con nuevas mecánicas",
+      "🌎 Nuevo universo y nueva historia",
+      "🏆 Modos de juego para un jugador y multijugador"
+    ],
+    "gallery": [
+      "mortal1.jpg",
+      "mortal2.jpg",
+      "mortal3.jpg",
+      "mortal4.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Warner Bros Games"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "19 de septiembre de 2023"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Mature 17+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "43 GB y más de 100 GB"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$220.915"
+      },
+      {
+        "name": "Premium Edition",
+        "price": "$$280.000"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén Mortal Kombat 1 con descuento",
+      "text": "Compra ahora y disfruta de uno de los mejores juegos de peleas de la última generación.",
+      "img": "mortal5.jpg"
+    }
+  },
+  {
+    "file": "portadaresident.html",
+    "slug": "portadaresident",
+    "title": "Resident Evil 4 Remake",
+    "tag": "TERROR / ACCIÓN",
+    "rating": "4.8 / 5",
+    "shortDesc": "Experimenta una nueva versión del legendario juego de survival horror. Acompaña a Leon S. Kennedy en una misión peligrosa para rescatar a la hija del presidente en un pueblo lleno de misterios y enemigos.",
+    "price": "$239.900",
+    "numPrice": 239900,
+    "oldPrice": "$299.900",
+    "discount": "-20%",
+    "cover": "resident4.jpg",
+    "details": [
+      "PlayStation 5",
+      "👻 Terror",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Resident Evil 4 Remake es una reconstrucción completa del clásico juego de acción y terror desarrollado por Capcom. Esta nueva versión mantiene la esencia del título original, pero incorpora gráficos modernos, una jugabilidad mejorada y una experiencia más inmersiva.",
+      "Controla a Leon S. Kennedy, un agente especial enviado a rescatar a la hija del presidente de los Estados Unidos. Explora un pueblo misterioso, enfrenta enemigos peligrosos y descubre los secretos detrás de una nueva amenaza."
+    ],
+    "features": [
+      "🎮 Modo historia para un jugador",
+      "🧟 Experiencia survival horror renovada",
+      "🔥 Combate mejorado con nuevas mecánicas",
+      "🎬 Gráficos de nueva generación",
+      "🏆 Compatible con PlayStation 5"
+    ],
+    "gallery": [
+      "residentcaptura.jpg",
+      "residentgameplay.jpg",
+      "residentescena.jpg",
+      "residentcombate.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Capcom"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "24 de marzo de 2023"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Mature 17+"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "58 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$239.900"
+      },
+      {
+        "name": "Deluxe Edition",
+        "price": "$299.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén Resident Evil 4 con descuento",
+      "text": "Compra ahora y disfruta de uno de los mejores juegos de terror de la última generación.",
+      "img": "residentdescuento.jpg"
+    }
+  },
+  {
+    "file": "portadaspiderman.html",
+    "slug": "portadaspiderman",
+    "title": "Marvel's Spider-Man 2",
+    "tag": "ACCIÓN / AVENTURA",
+    "rating": "4.8 / 5",
+    "shortDesc": "Vive una nueva aventura de Spider-Man con Peter Parker y Miles Morales. Enfréntate a nuevos enemigos, explora Nueva York y descubre una historia llena de acción, desafíos y grandes momentos.",
+    "price": "$223.920",
+    "numPrice": 223920,
+    "oldPrice": "$279.900",
+    "discount": "-20%",
+    "cover": "spiderman2.jpg",
+    "details": [
+      "PlayStation 5",
+      "🕷️ Acción",
+      "🎮 Un jugador"
+    ],
+    "descParas": [
+      "Marvel's Spider-Man 2 es una aventura de acción desarrollada por Insomniac Games. En esta nueva entrega, Peter Parker y Miles Morales unen fuerzas para proteger Nueva York de nuevas amenazas.",
+      "Explora una Nueva York más grande, utiliza las habilidades de ambos Spider-Man y enfréntate a enemigos como Kraven el Cazador y Venom mientras descubres una nueva historia."
+    ],
+    "features": [
+      "🕷️ Juega como Peter Parker y Miles Morales",
+      "🗽 Explora una Nueva York ampliada",
+      "⚔️ Nuevos enemigos y combates",
+      "🕸️ Nuevas habilidades y trajes",
+      "🏆 Compatible con PlayStation 5"
+    ],
+    "gallery": [
+      "spiderman1.jpg",
+      "spiderman-2.jpg",
+      "spiderman3.jpg",
+      "spiderman4.jpg"
+    ],
+    "extraItems": [
+      {
+        "label": "Desarrollador:",
+        "val": "Insomniac Games"
+      },
+      {
+        "label": "Fecha de lanzamiento:",
+        "val": "20 de octubre de 2023"
+      },
+      {
+        "label": "Clasificación:",
+        "val": "Teen"
+      },
+      {
+        "label": "Tamaño:",
+        "val": "86 GB aproximadamente"
+      }
+    ],
+    "editions": [
+      {
+        "name": "Standard Edition",
+        "price": "$223.920"
+      },
+      {
+        "name": "Digital Deluxe Edition",
+        "price": "$329.900"
+      }
+    ],
+    "specialOffer": {
+      "title": "Obtén Marvel's Spider-Man 2 con descuento",
+      "text": "Compra ahora y disfruta de una increíble aventura protagonizada por Peter Parker y Miles Morales.",
+      "img": "spiderman5.jpg"
+    }
+  }
+]

@@ -1,0 +1,225 @@
+@import './pixel-store.css';
+
+/* React App root adjustments */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Payment Methods (metodosdepago) */
+.payment-section {
+  padding-top: 35px;
+}
+.payment-header {
+  text-align: center;
+  margin-bottom: 35px;
+}
+.payment-header .small-title {
+  color: var(--red);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  display: block;
+  margin-bottom: 8px;
+}
+.payment-header h1 {
+  font-size: 40px;
+  letter-spacing: -1px;
+}
+.payment-header p {
+  color: var(--muted);
+  margin-top: 10px;
+  font-size: 14px;
+}
+.payment-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.payment-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+.payment-radio {
+  display: none;
+}
+.payment-method {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background: #111116;
+  border: 2px solid var(--line);
+  border-radius: 18px;
+  padding: 30px 20px;
+  cursor: pointer;
+  transition: 0.25s;
+  min-height: 130px;
+}
+.payment-method:hover {
+  border-color: rgba(255, 31, 61, 0.4);
+  transform: translateY(-3px);
+}
+.payment-method img {
+  max-width: 140px;
+  max-height: 70px;
+  object-fit: contain;
+}
+.payment-radio:checked + .payment-method {
+  border-color: var(--red);
+  box-shadow: 0 0 25px rgba(255, 31, 61, 0.25);
+  background: linear-gradient(135deg, #16161d, #111116);
+}
+.check-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--line);
+  display: grid;
+  place-items: center;
+  font-size: 11px;
+  color: transparent;
+  transition: 0.2s;
+}
+.payment-radio:checked + .payment-method .check-badge {
+  background: var(--red);
+  color: #fff;
+}
+.payment-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+/* Perfil Prueba */
+.profile-container {
+  max-width: 760px;
+  margin: 40px auto;
+}
+.profile-title {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 30px;
+}
+.profile-avatar-box {
+  width: 55px;
+  height: 55px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--red), #8c0922);
+  display: grid;
+  place-items: center;
+  font-size: 22px;
+  color: #fff;
+}
+.profile-card {
+  background: #111116;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 28px;
+  margin-bottom: 24px;
+}
+.card-header {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid var(--line);
+}
+.card-header h2 {
+  font-size: 20px;
+}
+.card-header p {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+.data-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+.data-row:last-child {
+  border-bottom: 0;
+}
+.data-icon {
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  background: rgba(255, 31, 61, 0.1);
+  color: var(--red);
+  display: grid;
+  place-items: center;
+  font-size: 15px;
+}
+.data-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.data-content span {
+  font-size: 11px;
+  color: #888;
+}
+.data-content input {
+  background: transparent;
+  border: 1px solid transparent;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 4px 6px;
+  border-radius: 6px;
+}
+.data-content input:not(:disabled) {
+  background: #0c0c10;
+  border-color: var(--line);
+}
+.edit-btn {
+  background: #18181e;
+  border: 1px solid var(--line);
+  color: #bbb;
+  width: 34px;
+  height: 34px;
+  border-radius: 9px;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  transition: 0.2s;
+}
+.edit-btn:hover {
+  border-color: var(--red);
+  color: #fff;
+}
+
+/* Toast Notification / Modal */
+.toast-notice {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background: #14141a;
+  border: 1px solid var(--red);
+  color: #fff;
+  padding: 14px 22px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  animation: fadeIn 0.3s ease;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 640px) {
+  .payment-grid {
+    grid-template-columns: 1fr;
+  }
+}

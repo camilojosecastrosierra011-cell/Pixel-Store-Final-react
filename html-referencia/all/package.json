@@ -1,0 +1,9 @@
+{
+  "name": "pixel-store",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Pixel Store - sistema escolar con autenticacion real",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"nodemailer": "^7.0.6"}
+}

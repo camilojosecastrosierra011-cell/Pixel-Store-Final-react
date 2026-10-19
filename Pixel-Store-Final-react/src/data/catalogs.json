@@ -1,0 +1,696 @@
+{
+  "home": [
+    {
+      "dataGame": "mario kart 8 deluxe",
+      "dataPlatform": "nintendo switch",
+      "href": "portadamario.html",
+      "img": "mariokart.jpg",
+      "discount": "-30%",
+      "platform": "Nintendo Switch",
+      "title": "Mario Kart 8 Deluxe",
+      "genre": "Carreras",
+      "price": "$289.900"
+    },
+    {
+      "dataGame": "mortal kombat 1",
+      "dataPlatform": "ps5",
+      "href": "portadamortalkombat.html",
+      "img": "mk1.jpg",
+      "discount": "-15%",
+      "platform": "PS5",
+      "title": "Mortal Kombat 1",
+      "genre": "Lucha y acción",
+      "price": "$259.900"
+    },
+    {
+      "dataGame": "resident evil 4",
+      "dataPlatform": "ps5",
+      "href": "portadaresident.html",
+      "img": "resident4.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "Resident Evil 4",
+      "genre": "Terror y acción",
+      "price": "$239.900"
+    },
+    {
+      "dataGame": "marvel's spider-man 2",
+      "dataPlatform": "ps5",
+      "href": "portadaspiderman.html",
+      "img": "spiderman2.jpg",
+      "discount": "-20%",
+      "platform": "PS5",
+      "title": "Marvel's Spider-Man 2",
+      "genre": "Acción y aventura",
+      "price": "$279.900"
+    },
+    {
+      "dataGame": "halo infinite",
+      "dataPlatform": "xbox series x|s",
+      "href": "portadahalo.html",
+      "img": "halo.jpg",
+      "discount": "-45%",
+      "platform": "Xbox Series X|S",
+      "title": "Halo Infinite",
+      "genre": "Acción y shooter",
+      "price": "$199.900"
+    },
+    {
+      "dataGame": "ea sports fc 25",
+      "dataPlatform": "ps5",
+      "href": "portadadefc25.html",
+      "img": "fc25.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "EA Sports FC 25",
+      "genre": "Deportes",
+      "price": "$249.900"
+    }
+  ],
+  "explorar": [
+    {
+      "dataGame": "marvel's spider-man 2",
+      "dataPlatform": "ps5",
+      "href": "portadaspiderman.html",
+      "img": "spiderman2.jpg",
+      "discount": "-20%",
+      "platform": "PS5",
+      "title": "Marvel's Spider-Man 2",
+      "genre": "Acción y aventura",
+      "price": "$279.900"
+    },
+    {
+      "dataGame": "ea sports fc 25",
+      "dataPlatform": "ps5",
+      "href": "portadadefc25.html",
+      "img": "fc25.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "EA Sports FC 25",
+      "genre": "Deportes",
+      "price": "$249.900"
+    },
+    {
+      "dataGame": "halo infinite",
+      "dataPlatform": "xbox",
+      "href": "portadahalo.html",
+      "img": "halo.jpg",
+      "discount": "-45%",
+      "platform": "XBOX",
+      "title": "Halo Infinite",
+      "genre": "Acción y shooter",
+      "price": "$199.900"
+    },
+    {
+      "dataGame": "resident evil 4",
+      "dataPlatform": "ps5",
+      "href": "portadaresident.html",
+      "img": "resident4.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "Resident Evil 4",
+      "genre": "Terror y acción",
+      "price": "$239.900"
+    },
+    {
+      "dataGame": "mario kart 8 deluxe",
+      "dataPlatform": "switch",
+      "href": "portadamario.html",
+      "img": "mariokart.jpg",
+      "discount": "-30%",
+      "platform": "SWITCH",
+      "title": "Mario Kart 8 Deluxe",
+      "genre": "Carreras",
+      "price": "$289.900"
+    },
+    {
+      "dataGame": "mortal kombat 1",
+      "dataPlatform": "ps5",
+      "href": "portadamortalkombat.html",
+      "img": "mk1.jpg",
+      "discount": "-15%",
+      "platform": "PS5",
+      "title": "Mortal Kombat 1",
+      "genre": "Lucha y acción",
+      "price": "$259.900"
+    },
+    {
+      "dataGame": "grand theft auto v",
+      "dataPlatform": "ps5",
+      "href": "portadaGTA5.html",
+      "img": "Grand Theft Auto VI.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "Grand Theft Auto V",
+      "genre": "Acción y mundo abierto",
+      "price": "$170.000"
+    },
+    {
+      "dataGame": "god of war ragnarök",
+      "dataPlatform": "ps5",
+      "href": "Portadadegodofwarragnarok.html",
+      "img": "god.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "God of War Ragnarök",
+      "genre": "Acción y aventura",
+      "price": "$249.900"
+    },
+    {
+      "dataGame": "forza horizon 5",
+      "dataPlatform": "xbox",
+      "href": "PortadadeForzaHorizon5.html",
+      "img": "ForzaHorizon5.jpg",
+      "discount": "",
+      "platform": "XBOX",
+      "title": "Forza Horizon 5",
+      "genre": "Carreras",
+      "price": "$199.900"
+    },
+    {
+      "dataGame": "zelda: tears of the kingdom",
+      "dataPlatform": "switch",
+      "href": "portadadezeldatotk.html",
+      "img": "The Legend of Zelda Tears of the Kingdom.jpg",
+      "discount": "",
+      "platform": "SWITCH",
+      "title": "Zelda: Tears of the Kingdom",
+      "genre": "Aventura y RPG",
+      "price": "$299.900"
+    },
+    {
+      "dataGame": "elden ring",
+      "dataPlatform": "ps5",
+      "href": "PortadadeEldenRing.html",
+      "img": "eldenring.jpg",
+      "discount": "-8%",
+      "platform": "PS5",
+      "title": "Elden Ring",
+      "genre": "RPG y acción",
+      "price": "$219.900"
+    },
+    {
+      "dataGame": "red dead redemption 2",
+      "dataPlatform": "ps5",
+      "href": "PortadadeRedDeadRedemption2.html",
+      "img": "RED DEAD REDEMPTION 2PELEA.JPG",
+      "discount": "",
+      "platform": "PS5",
+      "title": "Red Dead Redemption 2",
+      "genre": "Mundo abierto",
+      "price": "$149.900"
+    },
+    {
+      "dataGame": "hogwarts legacy",
+      "dataPlatform": "ps5",
+      "href": "PortadadeHogwartsLegacy.html",
+      "img": "HOGWARTS LEGACY.JPG",
+      "discount": "",
+      "platform": "PS5",
+      "title": "Hogwarts Legacy",
+      "genre": "RPG y aventura",
+      "price": "$219.900"
+    },
+    {
+      "dataGame": "cyberpunk 2077",
+      "dataPlatform": "xbox",
+      "href": "portadadecyberpunk.html",
+      "img": "cyberpunk.jpg",
+      "discount": "",
+      "platform": "XBOX",
+      "title": "Cyberpunk 2077",
+      "genre": "RPG y mundo abierto",
+      "price": "$179.900"
+    },
+    {
+      "dataGame": "minecraft",
+      "dataPlatform": "multiplataforma",
+      "href": "PortadadeMinecraft.html",
+      "img": "Minecraftcaptura.jpg",
+      "discount": "",
+      "platform": "MULTIPLATAFORMA",
+      "title": "Minecraft",
+      "genre": "Supervivencia",
+      "price": "$119.900"
+    },
+    {
+      "dataGame": "f1 24",
+      "dataPlatform": "ps5",
+      "href": "PortadadeF124.html",
+      "img": "F124.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "F1 24",
+      "genre": "Carreras y deportes",
+      "price": "$259.900"
+    },
+    {
+      "dataGame": "nba 2k25",
+      "dataPlatform": "ps5",
+      "href": "portadadeNBA2K25.html",
+      "img": "NBA2K25.JPG",
+      "discount": "",
+      "platform": "PS5",
+      "title": "NBA 2K25",
+      "genre": "Deportes",
+      "price": "$269.900"
+    },
+    {
+      "dataGame": "black myth: wukong",
+      "dataPlatform": "ps5",
+      "href": "portadablackmythwukong.html",
+      "img": "Black.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "Black Myth: Wukong",
+      "genre": "RPG y acción",
+      "price": "$329.900"
+    }
+  ],
+  "ofertas": [
+    {
+      "dataGame": "god of war ragnarök",
+      "dataPlatform": "ps5",
+      "href": "Portadadegodofwarragnarok.html",
+      "img": "god.jpg",
+      "discount": "-75%",
+      "platform": "PS5",
+      "title": "God of War Ragnarök",
+      "genre": "Acción y aventura",
+      "price": "$69.900"
+    },
+    {
+      "dataGame": "elden ring",
+      "dataPlatform": "ps5",
+      "href": "PortadadeEldenRing.html",
+      "img": "eldenring.jpg",
+      "discount": "-8%",
+      "platform": "PS5",
+      "title": "Elden Ring",
+      "genre": "RPG y acción",
+      "price": "$219.900"
+    },
+    {
+      "dataGame": "forza horizon 5",
+      "dataPlatform": "xbox",
+      "href": "PortadadeForzaHorizon5.html",
+      "img": "forza5.jpg",
+      "discount": "-45%",
+      "platform": "Xbox",
+      "title": "Forza Horizon 5",
+      "genre": "Carreras",
+      "price": "$83.445"
+    },
+    {
+      "dataGame": "hogwarts legacy",
+      "dataPlatform": "ps5",
+      "href": "PortadadeHogwartsLegacy.html",
+      "img": "hogwarts.jpg",
+      "discount": "-45%",
+      "platform": "PS5",
+      "title": "Hogwarts Legacy",
+      "genre": "RPG y aventura",
+      "price": "$103.495"
+    },
+    {
+      "dataGame": "cyberpunk 2077",
+      "dataPlatform": "xbox",
+      "href": "portadadecyberpunk.html",
+      "img": "cyberpunk.jpg",
+      "discount": "-45%",
+      "platform": "Xbox",
+      "title": "Cyberpunk 2077",
+      "genre": "RPG y mundo abierto",
+      "price": "$120.500"
+    },
+    {
+      "dataGame": "resident evil 4",
+      "dataPlatform": "ps5",
+      "href": "portadaresident.html",
+      "img": "resident4.jpg",
+      "discount": "-20%",
+      "platform": "PS5",
+      "title": "Resident Evil 4",
+      "genre": "Terror y acción",
+      "price": "$239.900"
+    }
+  ],
+  "play": [
+    {
+      "dataGame": "horizon forbidden west",
+      "dataPlatform": "ps4",
+      "href": "",
+      "img": "horizon.jpg",
+      "discount": "",
+      "platform": "PS4",
+      "title": "Horizon Forbidden West",
+      "genre": "Acción y aventura",
+      "price": "$250.000"
+    },
+    {
+      "dataGame": "the last of us part ii remastered",
+      "dataPlatform": "ps5",
+      "href": "",
+      "img": "tlou2.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "The Last of Us Part II Remastered",
+      "genre": "Acción y aventura",
+      "price": "$230.000"
+    },
+    {
+      "dataGame": "demon's souls",
+      "dataPlatform": "ps4",
+      "href": "",
+      "img": "demons-souls.jpg",
+      "discount": "",
+      "platform": "PS4",
+      "title": "Demon's Souls",
+      "genre": "RPG y acción",
+      "price": "$280.000"
+    },
+    {
+      "dataGame": "ghost of tsushima",
+      "dataPlatform": "ps5",
+      "href": "",
+      "img": "ghost.jpg",
+      "discount": "",
+      "platform": "PS5",
+      "title": "Ghost of Tsushima",
+      "genre": "Acción y aventura",
+      "price": "$260.000"
+    },
+    {
+      "dataGame": "gran turismo 7",
+      "dataPlatform": "ps4",
+      "href": "",
+      "img": "granturismo.jpg",
+      "discount": "",
+      "platform": "PS4",
+      "title": "Gran Turismo 7",
+      "genre": "Carreras y simulación",
+      "price": "$220.000"
+    },
+    {
+      "dataGame": "ratchet & clank: rift apart",
+      "dataPlatform": "ps4",
+      "href": "",
+      "img": "ratchet.jpg",
+      "discount": "",
+      "platform": "PS4",
+      "title": "Ratchet & Clank: Rift Apart",
+      "genre": "Acción y aventura",
+      "price": "$200.000"
+    }
+  ],
+  "xbox": [
+    {
+      "dataGame": "halo infinite",
+      "dataPlatform": "xbox series x|s",
+      "href": "portadahalo.html",
+      "img": "HaloInfinite.jpg",
+      "discount": "",
+      "platform": "Xbox Series X|S",
+      "title": "Halo Infinite",
+      "genre": "Acción y shooter",
+      "price": "$259.900"
+    },
+    {
+      "dataGame": "forza horizon 5",
+      "dataPlatform": "xbox",
+      "href": "PortadadeForzaHorizon5.html",
+      "img": "ForzaHorizon5.jpg",
+      "discount": "",
+      "platform": "Xbox",
+      "title": "Forza Horizon 5",
+      "genre": "Carreras",
+      "price": "$239.900"
+    },
+    {
+      "dataGame": "starfield",
+      "dataPlatform": "xbox",
+      "href": "",
+      "img": "Starfield.jpg",
+      "discount": "",
+      "platform": "Xbox",
+      "title": "Starfield",
+      "genre": "RPG y ciencia ficción",
+      "price": "$279.900"
+    },
+    {
+      "dataGame": "doom: the dark ages",
+      "dataPlatform": "xbox",
+      "href": "",
+      "img": "DOOM_The_Dark_Ages_Game_Cover.jpg",
+      "discount": "",
+      "platform": "Xbox",
+      "title": "DOOM: The Dark Ages",
+      "genre": "Acción y shooter",
+      "price": "$299.900"
+    },
+    {
+      "dataGame": "avowed",
+      "dataPlatform": "xbox",
+      "href": "",
+      "img": "Avowed.jpg",
+      "discount": "",
+      "platform": "Xbox",
+      "title": "Avowed",
+      "genre": "RPG y aventura",
+      "price": "$269.900"
+    },
+    {
+      "dataGame": "fable",
+      "dataPlatform": "xbox",
+      "href": "",
+      "img": "Fable.jpg",
+      "discount": "",
+      "platform": "Xbox",
+      "title": "Fable",
+      "genre": "RPG y aventura",
+      "price": "$289.900"
+    }
+  ],
+  "nintendo": [
+    {
+      "dataGame": "the legend of zelda: breath of the wild",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "The Zelda.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "genre": "Aventura",
+      "price": "$259.900"
+    },
+    {
+      "dataGame": "animal crossing: new horizons",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "AnimalCrossing.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Animal Crossing: New Horizons",
+      "genre": "Simulación",
+      "price": "$239.900"
+    },
+    {
+      "dataGame": "hollow knight",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Hollow_Knight_2026_cover_art.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Hollow Knight",
+      "genre": "Acción y aventura",
+      "price": "$69.900"
+    },
+    {
+      "dataGame": "super smash bros. ultimate",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Supersmashbros.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Super Smash Bros. Ultimate",
+      "genre": "Lucha",
+      "price": "$269.900"
+    },
+    {
+      "dataGame": "mario kart 8 deluxe",
+      "dataPlatform": "nintendo",
+      "href": "portadamario.html",
+      "img": "mariokart.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Mario Kart 8 Deluxe",
+      "genre": "Carreras",
+      "price": "$290.000"
+    },
+    {
+      "dataGame": "pokémon escarlata",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "PokemonScarlet.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Pokémon Escarlata",
+      "genre": "RPG y aventura",
+      "price": "$249.900"
+    },
+    {
+      "dataGame": "bayonetta 3",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Bayonetta3.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Bayonetta 3",
+      "genre": "Acción",
+      "price": "$229.900"
+    },
+    {
+      "dataGame": "stardew valley",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Stardewvalley.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Stardew Valley",
+      "genre": "Simulación",
+      "price": "$59.900"
+    },
+    {
+      "dataGame": "hades",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Hades_cover_art.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Hades",
+      "genre": "Acción y roguelike",
+      "price": "$99.900"
+    },
+    {
+      "dataGame": "xenoblade chronicles 3",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "XenobladeChronicles3.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Xenoblade Chronicles 3",
+      "genre": "RPG",
+      "price": "$259.900"
+    },
+    {
+      "dataGame": "mario kart world",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Mario Kart World.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Mario Kart World",
+      "genre": "Carreras",
+      "price": "$329.900"
+    },
+    {
+      "dataGame": "metroid prime 4: beyond",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "MetroidPrime 4.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Metroid Prime 4: Beyond",
+      "genre": "Aventura",
+      "price": "$319.900"
+    },
+    {
+      "dataGame": "pokémon leyendas z-a",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Pokémon Leyendas Z-A.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Pokémon Leyendas Z-A",
+      "genre": "RPG",
+      "price": "$309.900"
+    },
+    {
+      "dataGame": "splatoon raiders",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Splatoon Raiders.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Splatoon Raiders",
+      "genre": "Acción",
+      "price": "$299.900"
+    },
+    {
+      "dataGame": "fire emblem: fortune's weave",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Fire EmblemFortune'sWeave.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Fire Emblem: Fortune's Weave",
+      "genre": "RPG",
+      "price": "$319.900"
+    },
+    {
+      "dataGame": "yoshi and the mysterious book",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Yoshi and the Mysterious Book.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Yoshi and the Mysterious Book",
+      "genre": "Aventura",
+      "price": "$279.900"
+    },
+    {
+      "dataGame": "donkey kong bananza",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Donkey Kong Bananza.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Donkey Kong Bananza",
+      "genre": "Plataformas",
+      "price": "$309.900"
+    },
+    {
+      "dataGame": "hollow knight: silksong",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "Hollow Knight Silksong.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Hollow Knight: Silksong",
+      "genre": "Acción y aventura",
+      "price": "$139.900"
+    },
+    {
+      "dataGame": "the legend of zelda: tears of the kingdom",
+      "dataPlatform": "nintendo",
+      "href": "portadadezeldatotk.html",
+      "img": "The Legend of Zelda Tears of the Kingdom.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "genre": "Aventura y RPG",
+      "price": "$339.900"
+    },
+    {
+      "dataGame": "kirby: air riders",
+      "dataPlatform": "nintendo",
+      "href": "",
+      "img": "kirby.jpg",
+      "discount": "",
+      "platform": "Nintendo",
+      "title": "Kirby: Air Riders",
+      "genre": "Carreras",
+      "price": "$289.900"
+    }
+  ]
+}
